@@ -1,0 +1,14 @@
+# WEBSITE CODE EXTRACTION REPORT
+
+Website: https://htmlku.com/usiabaru/play/
+Extraction Date: 2026-02-21 04:22:56
+
+## Summary:
+- HTML FILES: 1
+- CSS FILES: 1
+- JAVASCRIPT FILES: 1
+- PHP FILES: 0
+- API ENDPOINTS: 1
+- WORKERS.DEV URLs: 0
+
+⚡ POWERED BY OLD-STUDIO
